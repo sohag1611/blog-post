@@ -16,27 +16,28 @@ color: orange;
     text-align: center;
     margin-bottom: 10px;
     padding: 10px;
-    border: 3px solid rebeccapurple;
-    border-radius: 5px;
 }
 .second-blog{
     text-align: center;
     margin-bottom: 10px;
     padding: 10px;
-    border: 3px solid rebeccapurple;
-    border-radius: 5px;
 }
 .third-blog{
     text-align: center;
     margin-bottom: 10px;
     padding: 10px;
-    border: 3px solid rebeccapurple;
-    border-radius: 5px;
 }
 .fourth-blog{
     text-align: center;
     margin-bottom: 10px;
     padding: 10px;
-    border: 3px solid rebeccapurple;
-    border-radius: 5px;
+    /* box-shadow: 10px 10px 10px saddlebrown; */
+}
+.full-blog{
+    margin: 50px;
+    background-color: blueviolet;
+    color: rgb(238, 244, 246);
+    font-size: 25px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px saddlebrown;
 }
